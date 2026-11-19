@@ -1,0 +1,392 @@
+[
+ {
+  "game": "minecraft",
+  "type": "fact",
+  "text": "Wool blocks vibrations. A single wool block under your feet stops a sculk sensor from hearing you walk."
+ },
+ {
+  "game": "minecraft",
+  "type": "fact",
+  "text": "A goat horn only drops when a goat rams a solid block. If it rams you instead, you get knocked off the mountain and nothing else."
+ },
+ {
+  "game": "minecraft",
+  "type": "fact",
+  "text": "Throw a snowball next to a Warden and it walks to where the snowball landed, not to where you are."
+ },
+ {
+  "game": "minecraft",
+  "type": "fact",
+  "text": "Ancient debris is thickest around Y=15, which is why the fast way to farm it is beds at that depth rather than a pickaxe."
+ },
+ {
+  "game": "minecraft",
+  "type": "fact",
+  "text": "Axolotls play dead the moment they take damage, and they only spawn in lush caves."
+ },
+ {
+  "game": "minecraft",
+  "type": "fact",
+  "text": "A fox will carry a Totem of Undying in its mouth, and the totem still saves the fox when it dies."
+ },
+ {
+  "game": "minecraft",
+  "type": "fact",
+  "text": "Break a bee nest without Silk Touch and the bees come out angry, chasing you for twenty blocks or more."
+ },
+ {
+  "game": "minecraft",
+  "type": "fact",
+  "text": "The End credits poem was written by Julian Gough. It runs past 1,500 words and Mojang has never shortened it."
+ },
+ {
+  "game": "minecraft",
+  "type": "fact",
+  "text": "The title screen has a 1-in-10,000 chance of misspelling the game's own name as “Minceraft”."
+ },
+ {
+  "game": "minecraft",
+  "type": "fact",
+  "text": "A full moon raises the regional difficulty and lets slimes spawn on the surface, which is why night three feels harder than night two."
+ },
+ {
+  "game": "minecraft",
+  "type": "legend",
+  "text": "Herobrine: white eyes, no pupils, in every cursed screenshot since 2010. Mojang has said more than once that he was never in the game, and every sighting traced back to a mod, a texture pack, or a hoax."
+ },
+ {
+  "game": "minecraft",
+  "type": "legend",
+  "text": "The Far Lands. Players treated it as the edge of the world for years. It was a real terrain bug 12.5 million blocks out; Mojang removed it, and the stories outlived the place."
+ },
+ {
+  "game": "minecraft",
+  "type": "legend",
+  "text": "The dragon egg. Every few months someone posts a method to hatch it. You cannot: it is a trophy block, and every method is either a mod or someone having fun with you."
+ },
+ {
+  "game": "minecraft",
+  "type": "legend",
+  "text": "The Herobrine altar: a 3×3 of gold blocks, netherrack on top, redstone torches around it. The recipe comes from a 2010 server plugin, and on a clean client it is just a pile of expensive blocks."
+ },
+ {
+  "game": "minecraft",
+  "type": "legend",
+  "text": "Steve is the last human. Mineshafts nobody built, villages with no villagers, a world full of ruins: fans built an entire post-apocalypse out of world generation, and the game has never said a word about it."
+ },
+ {
+  "game": "minecraft",
+  "type": "legend",
+  "text": "There is a persistent story that Endermen speak reversed English. The sounds really are reversed vocal recordings, which is probably where the story started."
+ },
+ {
+  "game": "minecraft",
+  "type": "legend",
+  "text": "Cursed seeds. Every few months someone posts a world seed that is “haunted”. Every one that has been checked turned out to be a texture pack, a mod, or a friend on the server."
+ },
+ {
+  "game": "minecraft",
+  "type": "rule",
+  "text": "Never dig straight down. Every veteran says it, and every veteran has a lava story that proves it."
+ },
+ {
+  "game": "minecraft",
+  "type": "rule",
+  "text": "Torches on the right as you head in, so you can find the way back out."
+ },
+ {
+  "game": "minecraft",
+  "type": "rule",
+  "text": "Carry a water bucket. It is a ladder, a fire extinguisher and a fall breaker at the same time."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "The Strange Capsule event drops a pod on your farm. Days later it cracks open and an alien silhouette appears outside at night."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "You can put hats on your horse, your children, and the alien. The horse one is the only genuinely useful one."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "You can also put a hat on a sea urchin in a fish tank. Nobody knows why this is allowed, but it is."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "The Trash Bear turns up in Year 3 and cleans the trash around town, but only after you feed it."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "Grandpa's evaluation lights four candles. Get all four and the Statue of Perfection drops iridium ore on your farm every morning."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "Krobus will move in as a roommate at ten hearts. He will not marry you, and he keeps his own room."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "The Sewers key comes from the museum: donate 60 items and Gunther hands it over."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "Sprinklers water at 6:00, before you wake up, so a crop planted later in the day waits until tomorrow for its first drink."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "Qi's Walnut Room needs 100 golden walnuts, and several of the best items in the game are only sold there."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "Crows only eat uncovered crops, and a scarecrow covers a fixed radius. Most “why is everything eaten” problems are a layout problem, not bad luck."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "fact",
+  "text": "Aged wine takes two full seasons in a cask to reach iridium, which is slower than almost everyone expects on their first cellar."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "legend",
+  "text": "The Traveling Cart merchant. Players have argued for years that she is the Witch in disguise, because both sell things nobody else stocks. ConcernedApe has never confirmed it."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "legend",
+  "text": "You can marry Krobus. You cannot: at ten hearts he moves in as a roommate, and the game is careful to call it something else."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "legend",
+  "text": "Your pet can die. It cannot. The cat or dog never starves, never gets sick, and will still be asleep in the same spot in Year 10."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "legend",
+  "text": "Grandpa's ghost is watching the farm. The shrine is literally the scoreboard, and the four candles are Grandpa grading how you played."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "legend",
+  "text": "There is a long-running story that the Dwarf and Krobus are the last two survivors of a war between their peoples. The dialogue hints at it and never says it."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "legend",
+  "text": "The fifth candle. People insist there is a hidden way to light a fifth candle on the shrine. There are four, and the statue only counts the four."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "rule",
+  "text": "Save your first Prismatic Shard. Everyone who spent it on a sword regrets it by Year 3."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "rule",
+  "text": "Incubate your first Dinosaur Egg instead of selling it."
+ },
+ {
+  "game": "stardew-valley",
+  "type": "rule",
+  "text": "Keep a chest with one of everything for the Community Center. You will need it, and you will not want to go back for it."
+ },
+ {
+  "game": "terraria",
+  "type": "fact",
+  "text": "The Torch God is real. Place enough torches in one underground spot and the world answers."
+ },
+ {
+  "game": "terraria",
+  "type": "fact",
+  "text": "Shimmer, added in 1.4.4, can downgrade items: drop a crafted thing in and get the components back."
+ },
+ {
+  "game": "terraria",
+  "type": "fact",
+  "text": "The Tax Collector is the only NPC you have to free from the Underworld."
+ },
+ {
+  "game": "terraria",
+  "type": "fact",
+  "text": "The Guide is not decoration. Stand next to him with a material and he lists everything it can make, including recipes you have not unlocked yet."
+ },
+ {
+  "game": "terraria",
+  "type": "fact",
+  "text": "Pylons need at least two nearby NPCs, and cramming too many into one spot drops their happiness, which raises every price they charge."
+ },
+ {
+  "game": "terraria",
+  "type": "fact",
+  "text": "The Dungeon is sealed until Skeletron dies, but the bookshelves in the entrance hall can hold a Water Bolt, so you can walk out with a spell before the fight."
+ },
+ {
+  "game": "terraria",
+  "type": "fact",
+  "text": "Every Demon Altar you smash with the Pwnhammer seeds more hardmode ore into the world. Smash too few and the world stays poor."
+ },
+ {
+  "game": "terraria",
+  "type": "fact",
+  "text": "Fallen stars become Mana Crystals, and one crystal is +20 maximum mana. Ten of them is the whole bar."
+ },
+ {
+  "game": "terraria",
+  "type": "fact",
+  "text": "The Merchant only moves in once you have 50 silver and a valid house, which is why some players wait far too long for a shop."
+ },
+ {
+  "game": "terraria",
+  "type": "fact",
+  "text": "Fishing crates can contain ores from biomes you have not reached yet, so a fishing afternoon is sometimes the fastest way past a tier."
+ },
+ {
+  "game": "terraria",
+  "type": "legend",
+  "text": "The Guide is the Wall of Flesh. The summon item is a Guide Voodoo Doll thrown into lava, and the thing that rises wears the Guide's face. Fans have argued about what that means for a decade; the game never explains."
+ },
+ {
+  "game": "terraria",
+  "type": "legend",
+  "text": "Red's Wings and the dev armour sets. They sit in the game files, they are not obtainable in normal play, and for years people traded rumours about how to get them."
+ },
+ {
+  "game": "terraria",
+  "type": "legend",
+  "text": "The Lihzahrd Temple door. Before Plantera, everyone has tried to bomb, drill, or hoik through it. Some old versions actually let you."
+ },
+ {
+  "game": "terraria",
+  "type": "legend",
+  "text": "The Dungeon Guardian follows you home. It does not, but it follows further than people expect, which is enough to keep the story alive."
+ },
+ {
+  "game": "terraria",
+  "type": "legend",
+  "text": "The Terra Blade before hardmode. People swear old versions let you craft it early. They did not; the recipe always needed hardmode materials."
+ },
+ {
+  "game": "terraria",
+  "type": "legend",
+  "text": "Every patch brings a new Shimmer duplication rumour. Some old versions did have real duplication bugs, which is why nobody ever fully stops believing the next one."
+ },
+ {
+  "game": "terraria",
+  "type": "rule",
+  "text": "Carry a stack of blocks everywhere. Half of all Terraria deaths are fall damage."
+ },
+ {
+  "game": "terraria",
+  "type": "rule",
+  "text": "Dig the hellevator early: straight down from base, a platform every few blocks so the fall does not kill you."
+ },
+ {
+  "game": "terraria",
+  "type": "rule",
+  "text": "Keep a piggy bank and a safe in your inventory. Death takes what you are carrying, not what you have stored."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "WX-78 can eat stale and spoiled food with no health or sanity penalty, which makes him the cheapest mouth to feed in the game."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "The Celestial Portal swaps your character for a Moon Rock Idol, and you keep the map, the base and the inventory."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "A beefalo herd can be walked across the whole map on hand-fed grass, but one in heat will attack the hand that feeds it."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "Hound waves scale with days survived, and the growling starts a few seconds before they arrive. That is the whole warning."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "The Pig King pays more gold for rarer trinkets, so it is worth sorting them before you trade."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "Birds will not land while you are close, so a bird trap only works if you walk away from it."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "Wormwood grows Living Logs from seeds, but he loses sanity every time he chops a tree."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "Spoiled food is still food. Most characters can eat it for hunger at the cost of health, which beats starving."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "A Lantern never runs out of fuel, which makes it the cheapest permanent light in the game."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "Beefalo sleep at night, and you can shave a sleeping one for wool if you are quick enough to get close."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "fact",
+  "text": "Glommer only appears at the Glommer statue on a full moon, and follows whoever is holding the flower."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "legend",
+  "text": "Charlie is the thing in the dark. The radio, the shadow hands, the fact that night attacks you instead of just draining you: the community reading is that Maxwell's old assistant became the night. Klei has never confirmed it."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "legend",
+  "text": "The Nightmare Throne. Sitting on it ends the run, and players have argued for years about whether the figure left sitting there is the player or the next victim."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "legend",
+  "text": "There is a story that you can see the Grue if you stand in the dark long enough. What actually happens is that you die; the sighting is the death animation."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "legend",
+  "text": "“They”. Characters mention Them, the throne belongs to Them, and nobody has ever seen Them. The strongest lore thread in the game is the one with no answer at all."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "legend",
+  "text": "Wes is cursed. He is a mime who cannot speak, and the story that Maxwell did it to him has been repeated for years without anyone at Klei confirming it."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "rule",
+  "text": "Fight in the light or do not fight. Night is for walking, not battles."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "rule",
+  "text": "One meat plus three berries is Meatballs, and Meatballs solves most hunger problems."
+ },
+ {
+  "game": "dont-starve-together",
+  "type": "rule",
+  "text": "Build the panic room before the first hound wave, not after it."
+ }
+]
